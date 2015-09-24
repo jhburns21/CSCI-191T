@@ -7,5 +7,5 @@ import (
 )
 
 func main() {
-	fmt.Println(names.yourName)
+	fmt.Println(names.YourName())
 }
